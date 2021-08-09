@@ -1,6 +1,6 @@
 
-*				STOCK SCRAPPER
-**		school project for the end of the python course at Wantsome
+				# STOCK SCRAPPER #
+		 ## school project for the end of the python course at Wantsome ##
 navigate with command prompt to the directory where you saved the setup
 
 then type in "pip install --editable ."
